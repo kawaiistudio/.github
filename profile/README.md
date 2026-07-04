@@ -29,7 +29,7 @@
 <!-- ══════════════════════════════════ ABOUT ══════════════════════════════════ -->
 ## &nbsp;◈&nbsp;&nbsp;Who We Are
 
-**Kawaii Studio** is a collective of elite developers and creative engineers pushing the limits of the VRChat digital frontier. We craft **bespoke VFX, shaders, avatars, tooling and open-source frameworks** — and ship production platforms that power the community.
+**Kawaii Studio** is a collective of elite developers and creative engineers pushing the limits of the VRChat digital frontier. We craft **bespoke VFX, shaders, avatars, tooling and open-source frameworks** — and ship production platforms that power the community. Everything here is built by the studio **and our open-source contributors** 💜
 
 <table>
 <tr>
@@ -105,7 +105,57 @@ The largest VRChat asset preservation platform — real-time search, automated a
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎬&nbsp; [VRChat ERP](https://vrchaterp.org) &nbsp;<img src="https://img.shields.io/badge/18%2B-NSFW-ff3860?style=flat-square&labelColor=0d1117" />
+<a href="https://vrchaterp.org"><img src="https://img.shields.io/badge/LIVE-vrchaterp.org-2ecc71?style=flat-square&labelColor=0d1117" /></a>
+
+High-traffic adult video platform for the VRChat community — engineered for **SEO at scale** (per-video `VideoObject` schema, video sitemaps), fast streaming and a fully self-hosted backend.
+
+`Python` &nbsp;`SEO` &nbsp;`Video Streaming` &nbsp;`Caddy`
+
+</td>
+</tr>
 </table>
+</div>
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6fae,50:a855f7,100:00d9ff&height=2" /></div>
+
+<!-- ══════════════════════════════════ CONTRIBUTORS ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;Built by the Community
+
+Our open-source projects are powered by developers who believe in what we build. **Every contributor makes the VR community better.**
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**KS Unity Tools**
+
+<a href="https://github.com/kawaiistudio/KSUnityTools/graphs/contributors"><img src="https://contrib.rocks/image?repo=kawaiistudio/KSUnityTools" /></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**VRCST**
+
+<a href="https://github.com/kawaiistudio/VRCST/graphs/contributors"><img src="https://contrib.rocks/image?repo=kawaiistudio/VRCST" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🤝 &nbsp;Want to contribute?
+
+We welcome devs who want to build with us on our open-source projects.
+Open an issue, submit a PR, or hop in the Discord — **let's create something insane together.**
+
+<a href="https://github.com/kawaiistudio/KSUnityTools/issues"><img src="https://img.shields.io/badge/Contribute-Open_an_Issue-ff6fae?style=for-the-badge&logo=github&labelColor=0d1117" /></a>
+<a href="https://discord.gg/xAeJrSAgqG"><img src="https://img.shields.io/badge/Discuss-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 </div>
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6fae,50:a855f7,100:00d9ff&height=2" /></div>
