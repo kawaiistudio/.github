@@ -26,6 +26,23 @@
 
 </div>
 
+<!-- ══════════════════════════════════ WEBSITE HERO ══════════════════════════════════ -->
+<div align="center">
+
+### 🌐 &nbsp;Our Home — [**kawaiistudio.org**](https://kawaiistudio.org)
+
+<a href="https://kawaiistudio.org">
+  <img width="90%" src="https://image.thum.io/get/width/1200/crop/720/noanimate/https://kawaiistudio.org" alt="kawaiistudio.org" />
+</a>
+
+<br/><br/>
+
+<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/%F0%9F%9A%80_VISIT_THE_SITE-KAWAIISTUDIO.ORG-a855f7?style=for-the-badge&labelColor=0d1117&logoColor=white" height="34" /></a>
+
+</div>
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6fae,50:a855f7,100:00d9ff&height=2" /></div>
+
 <!-- ══════════════════════════════════ ABOUT ══════════════════════════════════ -->
 ## &nbsp;◈&nbsp;&nbsp;Who We Are
 
@@ -166,18 +183,6 @@ Open an issue, submit a PR, or hop in the Discord — **let's create something i
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,python,js,ts,unity,dotnet,react,vite,nodejs,fastapi,tailwind,cloudflare,nginx,docker,git,blender&theme=dark&perline=8" />
-
-</div>
-
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6fae,50:a855f7,100:00d9ff&height=2" /></div>
-
-<!-- ══════════════════════════════════ METRICS ══════════════════════════════════ -->
-## &nbsp;◈&nbsp;&nbsp;Org Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawaiistudio&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kawaiistudio&theme=github_dark" />
 
 </div>
 
