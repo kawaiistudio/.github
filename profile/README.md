@@ -32,7 +32,7 @@
 ### 🌐 &nbsp;Our Home — [**kawaiistudio.org**](https://kawaiistudio.org)
 
 <a href="https://kawaiistudio.org">
-  <img width="90%" src="https://image.thum.io/get/width/1200/crop/720/noanimate/https://kawaiistudio.org" alt="kawaiistudio.org" />
+  <img width="90%" src="https://raw.githubusercontent.com/kawaiistudio/.github/main/profile/assets/kawaiistudio-hero.png" alt="kawaiistudio.org" />
 </a>
 
 <br/><br/>
